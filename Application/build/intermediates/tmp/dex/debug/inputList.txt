@@ -1,0 +1,9 @@
+D:\000-testing\sample\android-NavigationDrawer-master\Application\build\intermediates\classes\debug
+D:\000-testing\sample\android-NavigationDrawer-master\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-5342559a1a7c87e199d24f5122f92027a44e8572.jar
+D:\000-testing\sample\android-NavigationDrawer-master\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-f10bea56f41ae5a92e5e737cefa956ccc5834eca.jar
+D:\000-testing\sample\android-NavigationDrawer-master\Application\build\intermediates\pre-dexed\debug\classes-a6a8049afbe66eb815b010839ac726f07fe8ced9.jar
+D:\000-testing\sample\android-NavigationDrawer-master\Application\build\intermediates\pre-dexed\debug\classes-bdbfcfab2b210b180ef4b94290ceca2f85efc9f8.jar
+D:\000-testing\sample\android-NavigationDrawer-master\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-8c99490dc6187a761ba7cbdd89c7afe59c392e33.jar
+D:\000-testing\sample\android-NavigationDrawer-master\Application\build\intermediates\pre-dexed\debug\classes-06af38a43ded58c220dba662026ac78558b086c0.jar
+D:\000-testing\sample\android-NavigationDrawer-master\Application\build\intermediates\pre-dexed\debug\classes-200ded60087dcd48fbf64ea2d462c5c7496272dd.jar
+D:\000-testing\sample\android-NavigationDrawer-master\Application\build\intermediates\pre-dexed\debug\classes-3eef634506a09babfd066e22503e11c617e060d6.jar
