@@ -25,8 +25,8 @@
         <item>Uranus</item>
         <item>Neptune</item>
     </string-array>
-    <string name="drawer_open">Open navigation drawer</string>
-    <string name="drawer_close">Close navigation drawer</string>
-    <string name="action_websearch">Web search</string>
-    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="action_websearch" translatable="false">Web search</string>
+    <string name="app_not_available" translatable="false">Sorry, there\'s no web browser available</string>
 </resources>

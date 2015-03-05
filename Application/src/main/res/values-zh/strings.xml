@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">雲端18期</string>
+    <string name="navigationdraweractivity_title">雲端班18期陳炳陵的結訓專題</string>
+    <string name="intro_message"><![CDATA[                                    主要是針對評分標準表整合所學的技術功能                               ]]></string>
+    <string name="navigationdraweractivity_description">請點這裡開始啟動這個APP</string>
+</resources>
